@@ -1,1 +1,1 @@
-Directory Info
+Git Directory Info
